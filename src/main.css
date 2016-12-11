@@ -14,13 +14,13 @@ header {
 }
 */
 
-main {
+main, .container {
     max-width: 700px;
     margin: 0 auto;
 }
 
 
-section {
+section, .row {
     margin: 0 5px;
 }
 
